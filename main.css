@@ -1,0 +1,58 @@
+body{ 
+    background-color: #f49d1c;
+}
+
+#start { 
+    text-align: center;  
+    font-family: Dosis;  
+    font-size: 60px;  
+    text-decoration: underline;  
+    background-color: gold;  
+    border: 2px solid red;
+} 
+ 
+.toolbar { 
+    text-align: center;  
+    font-size: 30px; 
+    display: flex;
+    justify-content:space-around; 
+    background-color: lightblue; 
+    border: 2px solid red; 
+} 
+
+.content { 
+    background-color: navy; 
+    color: #f49f1c;
+}
+
+#about {  
+    padding-top: 150px;
+    text-align: center;  
+    padding-bottom: 150px;  
+    padding-left: 200px; 
+    padding-right: 200px;  
+    font-family: Dosis;  
+    border: 2px solid red;
+} 
+
+.about1 { 
+    display: flex; 
+    justify-content: center; 
+    text-align: center; 
+}  
+
+#projects { 
+    padding-top: 150px;
+    text-align: center;  
+    padding-bottom: 150px;  
+    font-family: Dosis; 
+    border: 2px solid red;
+} 
+
+#contact {
+    padding-top: 150px;
+    text-align: center;  
+    padding-bottom: 150px;  
+    font-family: Dosis; 
+    border: 2px solid red;
+}
