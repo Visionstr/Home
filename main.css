@@ -26,13 +26,13 @@ body{
 }
 
 #about {  
-    padding-top: 150px;
+    padding-top: 75px;
     text-align: center;  
-    padding-bottom: 150px;  
+    padding-bottom: 200px;  
     padding-left: 200px; 
     padding-right: 200px;  
-    font-family: Dosis;  
-    border: 2px solid red;
+    font-family: 'Yusei Magic', sans-serif; 
+    border: 3px solid #f49d1c;
 } 
 
 .about1 { 
@@ -42,17 +42,17 @@ body{
 }  
 
 #projects { 
-    padding-top: 150px;
+    padding-top: 75px;
     text-align: center;  
-    padding-bottom: 150px;  
+    padding-bottom: 200px;  
     font-family: Dosis; 
-    border: 2px solid red;
+    border: 3px solid #f49d1c;
 } 
 
 #contact {
-    padding-top: 150px;
+    padding-top: 75px;
     text-align: center;  
-    padding-bottom: 150px;  
+    padding-bottom: 200px;  
     font-family: Dosis; 
-    border: 2px solid red;
+    border: 3px solid #f49d1c;
 }
